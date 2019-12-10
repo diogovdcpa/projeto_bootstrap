@@ -1,0 +1,38 @@
+body{
+    font-size: 20px;
+    font-family: fantasy;
+}
+
+.navbar{
+    background-color: #F7B733;
+    padding-bottom: 20px;
+}
+
+
+.imgMargin{
+    margin: 10px 0 10px 0;
+}
+
+h3{
+    margin-bottom: 20px;
+}
+
+.divPad{
+    padding: 20px 0 20px 0;
+}
+
+.quem-somos{
+    background-color: #4ABDAC;
+    color: #dfdce3;
+}
+
+.parceiros{
+    background-color: #fc4a1a;
+    color: #dfdce3;
+}
+
+.servicos{
+    background-color: #4ABDAC;
+    color: #dfdce3;
+}
+
